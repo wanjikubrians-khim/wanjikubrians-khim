@@ -55,8 +55,8 @@ I build things that matter — from intelligent agents to full-stack platforms s
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanjikubrians&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjikubrians&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wanjikubrians-khim&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjikubrians-khim&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---

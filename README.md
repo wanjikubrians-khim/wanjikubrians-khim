@@ -4,6 +4,7 @@
 
 ---
 
+
 ## About Me
 
 I build things that matter — from intelligent agents to full-stack platforms solving real problems in Africa and beyond.

@@ -1,6 +1,6 @@
 # Hey there, I'm Brian Wanjiku 👋
 
-🧑‍💻 Developer · 📊 Data Scientist · 🤖 AI Agent Builder · 🇰🇪 Based in Kenya
+🧑‍💻 Developer · 📊 Data Scientist · 🤖 AI Agent Builder · 🇰🇪 Based in Kenya 
 
 ---
 

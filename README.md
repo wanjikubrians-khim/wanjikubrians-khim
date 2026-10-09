@@ -67,7 +67,7 @@ I build technology that solves real problems, from intelligent agents to full st
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanjikubrians-khim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wanjikubrians-khim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjikubrians-khim&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 

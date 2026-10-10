@@ -84,3 +84,4 @@ I build technology that solves real problems, from intelligent agents to full st
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wanjikubrians11@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254791710423)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-eosin-six-13.vercel.app/)
+[![Resume](https://img.shields.io/badge/-Resume-4B5563?style=flat&logo=readthedocs&logoColor=white)](assets/Brian_Wanjiku_Resume.pdf)
